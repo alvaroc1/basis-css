@@ -1,0 +1,8 @@
+.cache
+.cache-main
+.classpath
+.project
+.settings/
+bin
+target
+compiled
